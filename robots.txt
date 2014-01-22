@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bartoszkopinski.github.io/sitemap.xml 
